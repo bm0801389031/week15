@@ -1,0 +1,21 @@
+input
+human years, to get cat years and dog years
+
+
+function
+
+output
+human years, cat years, dog years
+
+
+
+1. //function statement named humanYearsCatYearsDogYears with parameter
+//humanYears
+
+
+2.   //if statement humanYears equals 1 return array 1, 15, 15
+  //if statement humanYears equals 2 return arrray 2, 24, 24
+
+3.  //return arrray human years, humans years minus 2 times 4
+  //plus 24, human years minus 2 times 5 plus 24
+  //follow pemdas
