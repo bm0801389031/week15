@@ -1,0 +1,22 @@
+input
+
+function
+
+output
+
+
+1. //function statement named generateRange
+//with parameters min, max step
+
+
+2. //varible declaration named narray set empty
+
+
+3. //for loop let i assigned to min; i less or 
+//equal to max; i plus equals step
+
+
+4. //narray push method with i as parameter
+
+
+5.   //return narray;
