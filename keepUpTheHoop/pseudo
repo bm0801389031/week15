@@ -1,0 +1,25 @@
+input 
+number of hoolahoops done
+
+function
+
+output
+if greater than 9, an encouragement string
+if less than 10, an encouragement string to keep tring
+
+
+1. //function named hoopCount with 
+//parameter n
+
+
+2. //if n is greater 9
+
+
+3. //return string Great, now move on to tricks
+
+
+4. //else, if the last line does not apply 
+//move on to the next line
+
+
+5. //return string Keep at it until you get it
