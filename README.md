@@ -55,3 +55,19 @@ min < max
 step > 0
 the range does not HAVE to include max (depending on the step)
 ALGORITHMS
+
+## no zeros for heros, forth program
+
+
+Numbers ending with zeros are boring.
+
+They might be fun in your world, but not here.
+
+Get rid of them. Only the ending ones.
+
+1450 -> 145
+960000 -> 96
+1050 -> 105
+-1050 -> -105
+Zero alone is fine, don't worry about it. Poor guy anyway
+FUNDAMENTALSNUMBERS
